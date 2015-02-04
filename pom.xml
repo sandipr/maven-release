@@ -34,7 +34,7 @@
   <packaging>pom</packaging>
 
   <name>Maven Release</name>
-  <description>Tooling to release a project with Maven, saving a lot of repetitive, manual work.</description>
+  <description>Tooling to release a project with Maven a, saving a lot of repetitive, manual work.</description>
 
   <modules>
     <module>maven-release-api</module>
